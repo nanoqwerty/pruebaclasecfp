@@ -1,0 +1,59 @@
+CTRL K + CTRL C = COMENTAR
+*3 TRIPLICA EL CODGIGO ESCRITO
+BR LINEA EN BLANCO
+HR LINEA DIVISORIA
+VISUAL STUDIO CODE
+EXTENSIONES: 
+	DRACULA 
+	LIVE SERVER
+CREAR UNA CARPETA DESAFIO 1
+LO MISMO QUE CLASE 5
+javirico@abc.gob.ar
+EDICION DE IMAGENES CANVAS
+CSS	
+ATRIBUTO CLASS
+
+RESETEAR CSS AL PRINCIPIO *{margin:0 paddin:0}
+
+WIREFRAME
+
+TAREA CLASE 6 UTILIZAR COLORES
+
+COMO OCUPAR EL 100% DE LA PAGINA
+EJEMPLOS DE FOOTER
+
+PARA LUNES 26/09 PRIMERA ENTREGA PROYECTO FINAL COMPRIMIDO
+2 HTML DESARROLLADOS
+CARPETA LUBRICENTRO
+*WIREFRAME
+*IMAGES
+*CSS
+*PAGES(4 HTML)
+INDEX.HTML
+
+https://flexboxfroggy.com/#es
+
+CONSOLAS
+git
+
+github.com
+usuario: mail
+contraseña: utedychtml123
+usuario: nanoqwerty
+
+repositorio: pruebaclasecfp
+
+…or create a new repository on the command line
+echo "# pruebaclasecfp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nanoqwerty/pruebaclasecfp.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/nanoqwerty/pruebaclasecfp.git
+git branch -M main
+git push -u origin main
+
