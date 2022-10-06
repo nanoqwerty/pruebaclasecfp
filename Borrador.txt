@@ -43,6 +43,10 @@ usuario: nanoqwerty
 
 repositorio: pruebaclasecfp
 
+abrir carpeta visual
+abrir terminal
+git init
+
 …or create a new repository on the command line
 echo "# pruebaclasecfp" >> README.md
 git init
@@ -56,4 +60,14 @@ git push -u origin main
 git remote add origin https://github.com/nanoqwerty/pruebaclasecfp.git
 git branch -M main
 git push -u origin main
+
+git add . /*subi modificaciones*/
+git commit -m "" /*comentario*/
+git push /*sube*/
+
+
+SI NO RECONOCE EL USUARIO
+git config --global user.email "nanomdq86@gmail.com" 
+git config --global user.name "nanoqwerty"
+
 
